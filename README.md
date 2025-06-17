@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Garcia</h1>
 <h3 align="center">A passionate fullstack developer from Mexico</h3>
 
-- 👨‍💻 All of my projects are available at [linkedin.com/in/diego-agl](linkedin.com/in/diego-agl)
+- 👨‍💻 All of my projects are available at (linkedin.com/in/diego-agl)
 
 - 📫 How to reach me **dagarcialopez5@gmail.com**
 
